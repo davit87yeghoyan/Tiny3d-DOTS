@@ -1,0 +1,29 @@
+{
+    "name": "Tiny3d.Authoring",
+    "references": [
+        "Unity.Entities",
+        "Unity.Transforms",
+        "Unity.Jobs",
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "Unity.Rendering.Hybrid",
+        "Unity.Entities.Hybrid",
+        "Unity.Collections",
+        "TinyRacing",
+        "TinyRacing.Hybrid",
+        "Unity.Tiny.Rendering",
+        "Unity.Tiny.Core",
+        "Unity.Build",
+        "Unity.Entities.Runtime.Build",
+        "Tiny3d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

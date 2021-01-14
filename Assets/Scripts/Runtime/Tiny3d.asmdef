@@ -1,0 +1,30 @@
+{
+    "name": "Tiny3d",
+    "references": [
+        "Unity.Entities",
+        "Unity.Jobs",
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "Unity.Transforms",
+        "Unity.Collections",
+        "Unity.Physics",
+        "Unity.Tiny.Input",
+        "Unity.Tiny.RendererExtras",
+        "Unity.Tiny.Core",
+        "Unity.Tiny.Rendering",
+        "Unity.Tiny.Text",
+        "Unity.Tiny.Animation",
+        "Unity.Tiny.Particles",
+        "Unity.Entities.Runtime",
+        "Unity.Scenes"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

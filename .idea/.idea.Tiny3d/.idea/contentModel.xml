@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\davo8\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\davo8\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Tiny3d.1724405809.00" t="ExcludeRecursive" />
+    <e p="D:\job\Tiny3d" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Authoring" t="Include">
+            <e p="MainAuthoring.cs" t="Include" />
+            <e p="Tiny3d.Authoring.asmdef" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="CameraUtil.cs" t="Include" />
+            <e p="ColorsType.cs" t="Include" />
+            <e p="Components" t="Include">
+              <e p="Buffer" t="Include">
+                <e p="ColorsBuffer.cs" t="Include" />
+                <e p="LevelBuffer.cs" t="Include" />
+              </e>
+              <e p="ButtonsComponent.cs" t="Include" />
+              <e p="CameraTagComponent.cs" t="Include" />
+              <e p="ChangePlayerColorComponent.cs" t="Include" />
+              <e p="CollidedTagComponent.cs" t="Include" />
+              <e p="ColorBoxComponent.cs" t="Include" />
+              <e p="ColorBoxTagComponent.cs" t="Include" />
+              <e p="ColorsGroupTagComponent.cs" t="Include" />
+              <e p="DispatchEventBoxComponent.cs" t="Include" />
+              <e p="DynamicColorBoxTagComponent.cs" t="Include" />
+              <e p="FinishTagComponent.cs" t="Include" />
+              <e p="FloatComponent.cs" t="Include" />
+              <e p="GameDataComponent.cs" t="Include" />
+              <e p="GameOverComponent.cs" t="Include" />
+              <e p="GoldScoreTagComponent.cs" t="Include" />
+              <e p="GoldTagComponent.cs" t="Include" />
+              <e p="GoldToScoreComponent.cs" t="Include" />
+              <e p="LoadLevelComponent.cs" t="Include" />
+              <e p="ObstacleTagComponent.cs" t="Include" />
+              <e p="OpenWindowComponent.cs" t="Include" />
+              <e p="PlayerInputComponent.cs" t="Include" />
+              <e p="PlayerMaterialTagComponent.cs" t="Include" />
+              <e p="PlayerSpeedComponent.cs" t="Include" />
+              <e p="PlayerStopComponent.cs" t="Include" />
+              <e p="PlayerTagComponent.cs" t="Include" />
+              <e p="RemoveFromWagonTagComponent.cs" t="Include" />
+              <e p="RemoveInStartLevelComponent.cs" t="Include" />
+              <e p="RotationComponent.cs" t="Include" />
+              <e p="ScoreTagComponent.cs" t="Include" />
+              <e p="StartPositionTagComponent.cs" t="Include" />
+              <e p="TeleportTagComponent.cs" t="Include" />
+              <e p="ToWagonTagComponent.cs" t="Include" />
+              <e p="WagonTagComponent.cs" t="Include" />
+              <e p="Window" t="Include">
+                <e p="WindowStartButtonTagComponent.cs" t="Include" />
+                <e p="WindowTagComponent.cs" t="Include" />
+                <e p="WindowTextTagComponent.cs" t="Include" />
+              </e>
+            </e>
+            <e p="InputUtil.cs" t="Include" />
+            <e p="Systems" t="Include">
+              <e p="BoxCollectionSystem.cs" t="Include" />
+              <e p="CameraSystem.cs" t="Include" />
+              <e p="ChangePlayerColorSystem.cs" t="Include" />
+              <e p="FinishSystem.cs" t="Include" />
+              <e p="GameOverSystem.cs" t="Include" />
+              <e p="GoldToScoreSystem.cs" t="Include" />
+              <e p="InputCollectorSystem.cs" t="Include" />
+              <e p="LoadLevelSystem.cs" t="Include" />
+              <e p="MoveSystem.cs" t="Include" />
+              <e p="PointerButtonSystem.cs" t="Include" />
+              <e p="PointerSystemBase.cs" t="Include" />
+              <e p="RotationSystem.cs" t="Include" />
+              <e p="TriggerFinishSystem.cs" t="Include" />
+              <e p="TriggerObstacleSystem.cs" t="Include" />
+              <e p="TriggerSystem.cs" t="Include" />
+            </e>
+            <e p="Tiny3d.asmdef" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="Tiny3d.Authoring.csproj" t="IncludeRecursive" />
+      <e p="Tiny3d.csproj" t="IncludeRecursive" />
+      <e p="Tiny3d.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

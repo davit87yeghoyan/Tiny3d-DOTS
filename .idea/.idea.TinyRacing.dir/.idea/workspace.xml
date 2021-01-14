@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a77d970-2064-41b9-9b3a-eb39d978d86a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Components/PrefabComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Components/PrefabComponent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/EntityManagerAll.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/EntityManagerAll.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Systems/MainJobSystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Systems/MainJobSystem.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Assets/Scenes/SubScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Assets/Scenes/SubScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Assets/Scenes/Tiny2D.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scenes/Tiny2D.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Components/RotationSpeed.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Components/RotationSpeed.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Systems/RotationSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Systems/RotationSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Tiny2D.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiny2D/Assets/Scripts/Tiny2D.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Assets/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Assets/Sprites/Hexagon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Assets/Sprites/Hexagon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiny2D/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiny2D/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiny2D/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiny2D/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiny2D/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiny2D/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Bubble.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Bubble.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Bubble_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Bubble_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Clam_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Clam_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Fish_Material 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Fish_Material 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Fish_Material 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Fish_Material 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Fish_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Fish_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Ground_Materail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Ground_Materail.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Instructions.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Instructions.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Pearl_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Pearl_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Plants_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Plants_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Rocks_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Rocks_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Seahorse_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Seahorse_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Starfish_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Starfish_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Submarine_Body2_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Submarine_Body2_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Submarine_Body_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Submarine_Body_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Submarine_Window_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Materials/Submarine_Window_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Assets/Settings/ForwardRenderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Assets/Settings/ForwardRenderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyAquarium/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyAquarium/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Build/Wasm.buildconfiguration" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Build/Wasm.buildconfiguration" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Belt.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Belt.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Cake.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Cake.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Cream.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Cream.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Cup.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Cup.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Machine.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Machine.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Sliver.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Sliver.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Unity.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Materials/Unity.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/Settings/ForwardRenderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/Settings/ForwardRenderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Assets/TinyFactory.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Assets/TinyFactory.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyFactory/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyFactory/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyGems/Assets/Scripts/Authoring/CellManagerComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyGems/Assets/Scripts/Authoring/CellManagerComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyGems/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyGems/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyGems/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyGems/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyGems/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyGems/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyGems/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyGems/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinySpaceship/Assets/Scripts/Authoring/TinySpaceship.Authoring.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinySpaceship/Assets/Scripts/Authoring/TinySpaceship.Authoring.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinySpaceship/Assets/Scripts/Runtime/TinySpaceship.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinySpaceship/Assets/Scripts/Runtime/TinySpaceship.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinySpaceship/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TinySpaceship/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinySpaceship/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TinySpaceship/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinySpaceship/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinySpaceship/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinySpaceship/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinySpaceship/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Balloon_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Balloon_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Balloon_m1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Balloon_m1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Balloon_m2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Balloon_m2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Balloon_m3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Balloon_m3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Black_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Black_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Blue_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Blue_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Brown_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Brown_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Cloud_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Cloud_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Fire_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Fire_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Fire_m2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Fire_m2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Flag_Base.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Flag_Base.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Flag_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Flag_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Ground_M.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Ground_M.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Moon_M.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Moon_M.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Mountains_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Mountains_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Plant_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Plant_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Red_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Red_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Rocks_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Rocks_Mat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Skin_m.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Skin_m.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Sun_M.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Sun_M.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Tree_m1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Tree_m1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Tree_m2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Tree_m2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Tree_m3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Materials/Tree_m3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Assets/Settings/ForwardRenderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Assets/Settings/ForwardRenderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TinyTime/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TinyTime/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mCz5OXVzHndzHLzkQMCgVo0jyd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a77d970-2064-41b9-9b3a-eb39d978d86a" name="Default Changelist" comment="" />
+      <created>1609012177425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609012177425</updated>
+      <workItem from="1609012182219" duration="36000" />
+      <workItem from="1609068204858" duration="55000" />
+      <workItem from="1609342206920" duration="1209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

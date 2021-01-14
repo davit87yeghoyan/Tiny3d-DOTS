@@ -1,0 +1,72 @@
+{
+    "Dependencies": [
+        "GlobalObjectId_V1-1-a25f9bf585972264c84d293ca590288e-93214019566545601-0"
+    ],
+    "Components": [
+        {
+            "$type": "Unity.Build.DotsRuntime.DotsRuntimeBuildProfile, Unity.Build.DotsRuntime",
+            "Target": "wasm",
+            "Configuration": 3,
+            "UseNewPipeline": false,
+            "PipelineConstructor": null
+        },
+        {
+            "$type": "Unity.Entities.Runtime.Build.DotsRuntimeBurstSettings, Unity.Entities.Runtime.Build",
+            "EnableBurst": false
+        },
+        {
+            "$type": "Unity.Build.Web.DotsRuntime.WasmOutputSettings, Unity.Build.Web.DotsRuntime",
+            "OutputSingleHTMLFile": false,
+            "MinifyHTMLFile": true,
+            "MinifyOutputWithClosure": false,
+            "EmbedCpuProfiler": false,
+            "EmbedMemoryProfiler": false,
+            "IncludeSymbolsForBrowserCallstacks": false,
+            "EmitRuntimeMemoryDebugChecks": false,
+            "EmitRuntimeAllocationDebugChecks": false,
+            "WebTemplateFolder": ""
+        },
+        {
+            "$type": "Unity.Build.Common.GeneralSettings, Unity.Build",
+            "ProductName": "Tiny3D",
+            "CompanyName": "Unity",
+            "Version": "1.1.1.1"
+        },
+        {
+            "$type": "Unity.Entities.Runtime.Build.DotsRuntimeScriptingSettings, Unity.Entities.Runtime.Build",
+            "EnableSafetyChecks": 0,
+            "EnableProfiler": 0,
+            "ScriptingDefines": [
+                "UNITY_DOTSRUNTIME_EXPERIMENTAL_FIXED_SIM"
+            ],
+            "EnableMultithreading": false
+        },
+        {
+            "$type": "Unity.Tiny.Rendering.Settings.TinyRenderingSettings, Unity.Tiny.Rendering.Authoring",
+            "WindowSize": {
+                "x": 1920,
+                "y": 1080
+            },
+            "RenderResolution": {
+                "x": 1920,
+                "y": 1080
+            },
+            "RenderGraphMode": 1,
+            "MaxResolution": 2048,
+            "AutoResizeFrame": true,
+            "DisableVsync": false,
+            "GPUSkinning": false
+        },
+        {
+            "$type": "Unity.Build.Common.SceneList, Unity.Build",
+            "$version": 1,
+            "BuildCurrentScene": false,
+            "SceneInfos": [
+                {
+                    "Scene": "GlobalObjectId_V1-1-5df6e82f78ecf5642aaa81178ff5dfec-102900000-0",
+                    "AutoLoad": true
+                }
+            ]
+        }
+    ]
+}
